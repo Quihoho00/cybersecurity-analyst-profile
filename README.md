@@ -25,8 +25,8 @@ Olá! Sou estudante iniciante na área de **Segurança Cibernética** e estou at
 
 ## 📫 Contato
 
-- Email: antonio.fernandes@email.com
-- LinkedIn: [linkedin.com/in/antoniofernandes](https://linkedin.com/in/antoniofernandes)
+- Email: antonioquihoho@gmail.com
+- LinkedIn: https://www.linkedin.com/in/antonioquihoho/
 
 ---
 *Este repositório é parte do meu caminho de aprendizado. Construa o seu também!* 🚀
